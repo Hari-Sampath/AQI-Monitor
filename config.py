@@ -1,4 +1,4 @@
-API_KEY = "a735ddb349a500779a3e3641e0a90908"
+API_KEY = ""
 
 # Example: Hyderabad
 LAT = 17.3850
